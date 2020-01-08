@@ -1,0 +1,30 @@
+/**
+ * Created by vojtech on 5/7/2016.
+ */
+
+/** 
+* <h1>Find average of three numbers!</h1> 
+* The FindAvg program implements an application that 
+* simply calculates average of three integers and Prints 
+* the output on the screen. 
+* 
+* @author  Pratik Agarwal 
+* @version 1.0 
+* @since   2017-02-18 
+*/
+
+/**
+* The HelloWorld program implements an application that
+* simply displays "Hello World!" to the standard output.
+*
+* @author  Lev Novak
+* @version 1.0
+* @since   2020-01-07 
+*/
+public class HelloWorld {
+
+   public static void main(String[] args) {
+      // Prints Hello, World! on standard output.
+      System.out.println("Hello World!");
+   }
+}
